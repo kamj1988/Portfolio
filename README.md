@@ -1,4 +1,7 @@
 # Hi there, I'm Kamil Janoszek 👋
+
+[🇵🇱 Wersja polska (Portfolio)](Portfolio.md)
+
 ### QA Automation Engineer | Playwright & Cloud Data Testing Specialist
 
 I am a Quality Assurance Engineer with 4 years of experience (at **Precisely**) specializing in end-to-end automation and complex backend validation. I bridge the gap between web application stability and data integrity.
